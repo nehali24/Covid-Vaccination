@@ -66,6 +66,15 @@ Total vaccination per hundered of population:
 
 People fully vaccinated per hundered:
 
+![people_fully_vaccinated_per_hundred](https://user-images.githubusercontent.com/60546284/107047627-f0205f80-67bf-11eb-99b0-f74e9970efcd.png)
+
+
+
+
+
+
+
+
 
 
 Daily vaccinations per million:
