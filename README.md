@@ -14,6 +14,9 @@ Looking at the daily vaccination per million around the world it is max in Gibra
 
 Vaccination progress: around 21st dec, 2020, it reached to a high scale vaccination per day, United States has maximum vaccination per day, then comes China  and U.K. According to dataset total vaccination received in U.S. is around 31.1233 million, China: 22.767 million, U.K. is 9.468 million, England : 8.25 million, Israel is 4.736 million and India is 3.744 million.
 
+![output_18_0](https://user-images.githubusercontent.com/60546284/107044256-f3b1e780-67bb-11eb-80e4-f680a2bf0e71.png)
+
+
 Vaccines used by each country: 
 
 ![newplot (1)](https://user-images.githubusercontent.com/60546284/107043168-8782b400-67ba-11eb-9565-ad4c42be4f47.png)
