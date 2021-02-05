@@ -30,8 +30,12 @@ Vaccination per day countrywise:
 
 ![output_22_0](https://user-images.githubusercontent.com/60546284/107045809-de3dbd00-67bd-11eb-84ff-d91113ce34bd.png)
 
-On per day basis maximum vaccination in  aday is happening in U.S. Total vaccines received according to dataset: U.S. : 31.1233 mln, China: 22.767 mln, U.K. : 9.468382 mln, England: 8.25 mln, Israel: 4.736 mln,India: 3.744 mln. 
+On per day basis maximum vaccination in  aday is happening in U.S. 
 
+
+Total vaccines received countrywise:
+![newplot (2)](https://user-images.githubusercontent.com/60546284/107046413-805da500-67be-11eb-8dad-6a44fc919454.png)
+Total vaccines received according to dataset: U.S. : 31.1233 mln, China: 22.767 mln, U.K. : 9.468382 mln, England: 8.25 mln, Israel: 4.736 mln,India: 3.744 mln
 
 
 
