@@ -80,6 +80,10 @@ People fully vaccinated per hundered:
 Daily vaccinations per million:
 
 
+![daily_vaccination_per_million](https://user-images.githubusercontent.com/60546284/107047779-1cd47700-67c0-11eb-95ee-d097ec85fbf9.png)
+
+
+
 
 
 Daily vaccination around the world:
