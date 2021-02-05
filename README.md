@@ -47,3 +47,26 @@ Vaccines used by each country:
 
 In U.S. , Canada, Spain, Germany, Bulgaria : Morderna, Pfizer/ BioNTech is being used. 
 In India: Covaxin is beign used.
+
+
+Total vaccination by vaccines:
+
+
+
+Total vaccination per hundered of population:
+
+
+
+People fully vaccinated per hundered:
+
+
+
+Daily vaccinations per million:
+
+
+
+
+Daily vaccination around the world:
+
+
+
