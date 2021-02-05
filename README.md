@@ -50,11 +50,17 @@ In India: Covaxin is beign used.
 
 
 Total vaccination by vaccines:
+
 ![totalvaccinations_by_vaccine](https://user-images.githubusercontent.com/60546284/107047198-74261780-67bf-11eb-861e-6dea267a6c3e.png)
 
 
 
+
+
 Total vaccination per hundered of population:
+
+![Total_vaccination_per_hundred](https://user-images.githubusercontent.com/60546284/107047434-b6e7ef80-67bf-11eb-899c-071263443394.png)
+
 
 
 
