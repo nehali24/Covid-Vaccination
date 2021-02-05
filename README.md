@@ -26,6 +26,7 @@ Vaccination progress: around 21st dec, 2020, it reached to a high scale vaccinat
 ![output_20_0](https://user-images.githubusercontent.com/60546284/107045482-75eedb80-67bd-11eb-84f2-61b93d0844f3.png)
 
 Vaccination per day countrywise:
+![output_22_0](https://user-images.githubusercontent.com/60546284/107045809-de3dbd00-67bd-11eb-84ff-d91113ce34bd.png)
 
 
 
