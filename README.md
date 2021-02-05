@@ -18,6 +18,5 @@ Vaccines used by each country:
 
 ![newplot (1)](https://user-images.githubusercontent.com/60546284/107043168-8782b400-67ba-11eb-9565-ad4c42be4f47.png)
 
-
-
-
+In U.S. , Canada, Spain, Germany, Bulgaria : Morderna, Pfizer/ BioNTech is being used. 
+In India: Covaxin is beign used.
