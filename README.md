@@ -7,7 +7,8 @@ Country vs number of people vaccinated:
 
 ![output_14_0](https://user-images.githubusercontent.com/60546284/107031400-09b6ac80-67aa-11eb-9a12-202e0744ee0c.png)
 
-According to this plot we can see that Israel is the country where a huge percentage of population has been vaccinated. After that on second comes United Kingdom then UAE.  
+Maximum people that had been vaccinated are in U.S. , then U.K.  then UAE. 
+
 
 
 Considering the countries where people have been fully vaccinated per hundered, again it is Israel, then UAE and then US. 
