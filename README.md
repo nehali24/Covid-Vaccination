@@ -68,6 +68,8 @@ People fully vaccinated per hundered:
 
 ![people_fully_vaccinated_per_hundred](https://user-images.githubusercontent.com/60546284/107047627-f0205f80-67bf-11eb-99b0-f74e9970efcd.png)
 
+Total people fully vaccinated per hundred is quite low in this dataset. 
+
 
 
 
@@ -78,6 +80,7 @@ People fully vaccinated per hundered:
 
 
 Daily vaccinations per million:
+Daily vaccination per million: U.S.: 4003, China: 771, Israel: 21.07k, UAE: 12.225k.
 
 
 ![daily_vaccination_per_million](https://user-images.githubusercontent.com/60546284/107047779-1cd47700-67c0-11eb-95ee-d097ec85fbf9.png)
@@ -87,6 +90,7 @@ Daily vaccinations per million:
 
 
 Daily vaccination around the world:
+Daily vaccinations in Total:U.S. : 1.3249 mln, China: 1.10957 mln, India: 308000.
 
 
 ![daily_vaccination](https://user-images.githubusercontent.com/60546284/107047996-573e1400-67c0-11eb-9212-d35050fa89a2.png)
