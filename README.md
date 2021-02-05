@@ -89,4 +89,8 @@ Daily vaccinations per million:
 Daily vaccination around the world:
 
 
+![daily_vaccination](https://user-images.githubusercontent.com/60546284/107047996-573e1400-67c0-11eb-9212-d35050fa89a2.png)
+
+
+
 
