@@ -7,5 +7,6 @@ While cleaning data i has to drop irrelevant fields like "source name", "source 
 
 Acoording to this plot we can see that Israel is the country where a huge percentage of population has been vaccinated. After that on second comes United Kingdom then UAE.  
 Considering the countries where people have been fully vaccinated per hundered, again it is Israel, then UAE and then US. 
+![output_16_0](https://user-images.githubusercontent.com/60546284/107031883-d294cb00-67aa-11eb-8796-b8d1501316f6.png)
 
 
